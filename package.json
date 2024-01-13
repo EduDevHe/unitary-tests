@@ -1,0 +1,24 @@
+{
+  "name": "unitary-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduDevHe/unitary-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduDevHe/unitary-tests/issues"
+  },
+  "homepage": "https://github.com/EduDevHe/unitary-tests#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
